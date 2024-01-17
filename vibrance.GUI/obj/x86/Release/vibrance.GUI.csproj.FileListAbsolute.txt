@@ -1,0 +1,21 @@
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\CommonServiceLocator.dll
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\Costura.dll
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\Costura.pdb
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\Costura.xml
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.AssemblyReference.cache
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.common.ProcessExplorer.resources
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.Properties.Resources.resources
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.common.VibranceGUI.resources
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.common.VibranceSettings.resources
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.GenerateResource.cache
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.Fody.CopyLocal.cache
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.CopyComplete
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\Vibrance Remastered.exe.config
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\Vibrance Remastered.exe
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\bin\x86\Release\Vibrance Remastered.pdb
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\Vibrance Remastered.exe
+C:\Users\Bongsy\Desktop\Bongs Vibrance GUI\vibranceGUI-master\vibrance.GUI\obj\x86\Release\Vibrance Remastered.pdb
